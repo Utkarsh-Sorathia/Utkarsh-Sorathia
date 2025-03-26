@@ -20,7 +20,7 @@ I'm a **Full-Stack Developer** and **MERN Specialist** with a passion for delive
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Utkarsh-2003&color=dc143c)
 
         
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCMquZsMwF42qAgLw_LgHOyvqjAPcU6YWR2gvBSI26AVVpxSiHxe6puc6irxIz-WNwDRt5HlvfUA7ejJDnFh4NxE7Uq2zxlcU9rjEfjn0SIkHucJt38hqWkvwYbe7SM244ItFza000g4JCYhsgiATIkowmTTuIReFRJbw5GZwi72N4vZU0r11une7z/s1600/ezgif.com-gif-maker.gif" width="300px" alt="GIF Animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="450px" height="300px" alt="GIF Animation"/>
 
 </div>
 
@@ -80,6 +80,7 @@ I'm a **Full-Stack Developer** and **MERN Specialist** with a passion for delive
 <a href="https://www.linkedin.com/in/utkarsh-sorathia-a9292b22a" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="linkedin" style="margin-bottom: 5px;">
 </a> 
+    <a href="https://instagram.com/utkarsh__sorathia" target="_blank"><img src="https://img.shields.io/badge/-@utkarsh__sorathia-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </div>
 <!--end of Connect with me -->
 
