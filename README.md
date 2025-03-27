@@ -17,7 +17,7 @@ I'm a **Full-Stack Developer** and **MERN Specialist** with a passion for delive
        
     <div style="margin-bottom: 10px; text-align: center;">
         
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=Utkarsh-2003&color=dc143c)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=Utkarsh-Sorathia&color=dc143c)
 
         
 <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="450px" height="300px" alt="GIF Animation"/>
@@ -74,7 +74,7 @@ I'm a **Full-Stack Developer** and **MERN Specialist** with a passion for delive
 <!--start of Connect with me -->
 <h2 id="connect-with-me">Connect with me</h2>
 <div align="center">
-<a href="https://github.com/Utkarsh-2003" target="_blank">
+<a href="https://github.com/Utkarsh-Sorathia" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="github" style="margin-bottom: 5px;">
 </a>
 <a href="https://www.linkedin.com/in/utkarsh-sorathia-a9292b22a" target="_blank">
@@ -91,12 +91,12 @@ I'm a **Full-Stack Developer** and **MERN Specialist** with a passion for delive
   <tbody>
     <tr>
       <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-2003&show_icons=true&theme=radical" align="left" style="width: 100%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Sorathia&show_icons=true&theme=radical" align="left" style="width: 100%">
      </td>
     </tr>
   <tr>
     <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-2003&layout=compact&langs_count=7&theme=radical"  align="right" style="width: 100%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Sorathia&layout=compact&langs_count=7&theme=radical"  align="right" style="width: 100%"/>
     </td>
   </tr>
 </tbody>
