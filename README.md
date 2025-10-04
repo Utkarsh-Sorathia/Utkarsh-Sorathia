@@ -50,7 +50,7 @@ I'm a **Full-Stack Developer** and **MERN Specialist** with a passion for delive
 </a>
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="right" width="33%">
 
   
 ### Backend  
