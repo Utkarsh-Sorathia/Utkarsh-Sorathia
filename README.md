@@ -83,22 +83,3 @@ I'm a **Full-Stack Developer** and **MERN Specialist** with a passion for delive
     <a href="https://instagram.com/utkarsh__sorathia" target="_blank"><img src="https://img.shields.io/badge/-@utkarsh__sorathia-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </div>
 <!--end of Connect with me -->
-
-<!--start of stats -->
-<h2 id="github-stats">Github Stats</h2>
-<div align="center">
-<table>
-  <tbody>
-    <tr>
-      <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh-Sorathia&show_icons=true&theme=radical" align="left" style="width: 100%">
-     </td>
-    </tr>
-  <tr>
-    <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh-Sorathia&layout=compact&langs_count=7&theme=radical"  align="right" style="width: 100%"/>
-    </td>
-  </tr>
-</tbody>
-</table>
-</div>
